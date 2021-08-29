@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ola, me chamo Igor Borges, pseudonimo (Feanor)
 
-<!--
-**Feanor-RPG/Feanor-RPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢-Atualmente trabalhando com Suporte Técnico na parte de integração de Sistemas com tecnologia Voip
 
-Here are some ideas to get you started:
+💌-Estudando atualmente C, C++, JavaScript e Banco de Dados com MySQL Oracle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔔-Em busca de vagas de estagio para melhorar meus conhecimentos de programação, banco de dados e machine learnig.
+
+ <div>
+  <a href="https://github.com/Feanor-RPG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Feanor-RPG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feanor-RPG&layout=compact&langs_count=7&theme=dark"/>
+</div>
