@@ -1,6 +1,6 @@
 ### Ola, me chamo Igor Borges, pseudonimo (Feanor)
 
-🏢-Atualmente trabalahando como QA e Data Science na IBM
+🏢-Atualmente trabalhando como QA e Data Science na IBM
 
 💌-Estudando atualmente Data Science, Python, QA e Cloud
 
