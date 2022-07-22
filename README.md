@@ -1,10 +1,9 @@
 ### Ola, me chamo Igor Borges, pseudonimo (Feanor)
 
-🏢-Atualmente trabalhando com Suporte Técnico na parte de integração de Sistemas com tecnologia Voip
+🏢-Atualmente trabalahando como QA e Data Science na IBM
 
-💌-Estudando atualmente C, C++, JavaScript e Banco de Dados com MySQL Oracle
+💌-Estudando atualmente Data Science, Python, QA e Cloud
 
-🔔-Em busca de vagas de estagio para melhorar meus conhecimentos de programação, banco de dados e machine learnig.
 
  <div>
   <a href="https://github.com/Feanor-RPG">
